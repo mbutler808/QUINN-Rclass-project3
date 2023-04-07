@@ -1,20 +1,16 @@
 
 # Repo url
 
-<https://github.com/quinnmoon11/QUINN-Rclass-project>
+https://github.com/quinnmoon11/QUINN-Rclass-project
 
 # Overview
 
-A solution for the Palmer Penguins project done with R/Quarto/Github. The structure promotes a data science pipeline for reproducibility in research. 
+Project 3 for the R data science course using data from my thesis
 
 # History
 
-2023-02-16 First release with Data and Code folders with materials for data cleaning and initial exploration.  
-2023-03-20 Solutions added to the repository.
+2023-04-06 First release with Data folder  
 
-# Acknowledgement
-
- This repository was cloned and modified from <https://github.com/mbutler808/Project-template>
 
 # Software requirements
 
@@ -38,8 +34,6 @@ This template also uses the convention that Folder names begin with a capital le
 
 Please see the `README.md` files in each folder for more details.
 
-* This repo begins with the _Palmer Penguins_ morphology and life history data in the `Raw_data` folder. 
-* The `Processing_code` folder contains several files that load the raw data, perform a bit of cleaning, and save the result in the `Processed_data` folder. 
 
 Planned additions:
 * The `Analysis_code` folder will contains several files that load the processed data, do an exploratory analysis, and fit a simple model. These files produce figures and some numeric output (tables), which are saved to the `results` folder.
@@ -47,8 +41,7 @@ Planned additions:
 * The  `Manuscript` folder will contain a template for a report written as Quarto file. There is also a sub-folder containing an example template for a supplementary material file as is common in scientific articles these days.
 * The `slides` folder contains a basic example of slides made with Quarto. 
 
-**For the first project, we only have Data and Code folders.**
-The rest will come soon. 
+ 
 
 # Getting started
 
